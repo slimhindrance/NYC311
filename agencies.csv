@@ -1,0 +1,33 @@
+AgencyID,AgencyCode,AgencyName
+0,dot,Department of Transportation
+1,dep,Department of Environmental Protection
+2,nypd,New York Police Department
+3,dohmh,Department of Health and Mental Hygiene
+4,dsny,Department of Sanitation
+5,dpr,Department of Parks & Rec
+6,dhs,Department of Homeless Services
+7,hpd,Department of Housing Preservation & Development
+8,dob,Department of Buildings
+9,dca,Department of Consumer Affairs
+10,tlc,Taxi & Limo Commission
+11,dfta,Department for The Aging 
+12,hra,HRA Benefit Card Replacement
+13,doe,Department of Education
+14,dof,Department of Finance
+15,OSE,Mayor's Office of Special Enforcement
+16,nycem,New York City Emergency Management
+17,edc,Economic Development Corporation
+18,acs,Administration of Children's Services
+19,doitt,Department of Information Technology & Telecommunications
+20,tax,TAX
+21,dcp,Department of City Planning
+22,dcas,Department of Citywide Administration Services
+23,tat,TAT
+24,N/A,N/A
+25,coib,Conflicts of Interest Board
+26,omb,Office of Management & Budget
+27,ceo,CEO
+28,fdny,Fire Department of New York City
+29,moc,MOC
+30,doris,Municipal Archives
+31,dvs,Department of Veteran Services

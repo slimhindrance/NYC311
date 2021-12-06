@@ -1,0 +1,348 @@
+ComplaintTypeID,ComplaintType,MasterComplaintType
+0,traffic signal condition,Streetlight/Traffic Signal Condition
+1,sidewalk condition,Street/Sidewalk Condition
+2,noise,Noise
+3,noise - residential,Noise
+4,rodent,Rodent
+5,missed collection (all materials),Missed Collection
+6,noise - street/sidewalk,Noise
+7,noise - vehicle,Noise
+8,overgrown tree/branches,Trees and Vegetation
+9,new tree request,Trees and Vegetation
+10,street light condition,Streetlight/Traffic Signal Condition
+11,derelict vehicle,Derelict Vehicle
+12,homeless encampment,Homeless Person Assistance
+13,indoor air quality,Air Quality
+14,noise - commercial,Noise
+15,other enforcement,Other Enforcement
+16,unsanitary animal pvt property,Unsanitary Condition
+17,noise - park,Noise
+18,homeless person assistance,Homeless Person Assistance
+19,dirty conditions,Dirty Conditions
+20,blocked driveway,Blocked Driveway
+21,standing water,Sewage/Drainage
+22,sewer,Sewage/Drainage
+23,hpd literature request,Other
+24,air quality,Air Quality
+25,hazardous materials,Hazardous Material
+26,illegal parking,Illegal Parking
+27,water system,Water Maintenance
+28,emergency response team (ert),Other
+29,dead tree,Trees and Vegetation
+30,water quality,Water Maintenance
+31,drinking,Other
+32,traffic,Traffic
+33,general construction/plumbing,Construction
+34,water conservation,Water Conservation
+35,non-emergency police matter,Other
+36,consumer complaint,Consumer Complaint
+37,vending,Vending
+38,sanitation condition,Sanitation
+39,smoking,Other
+40,graffiti,Graffiti
+41,maintenance or facility,Maintenance or Facility
+42,damaged tree,Trees and Vegetation
+43,derelict bicycle,Derelict Vehicle
+44,taxi complaint,Taxi Complaint
+45,lost property,Other
+46,for hire vehicle complaint,For Hire Vehicle Report
+47,litter basket / request,Litter Basket
+48,violation of park rules,Violation of Park Rules
+49,food establishment,Food Establishment
+50,animal abuse,Animal Abuse
+51,senior center complaint,Other
+52,overflowing litter baskets,Other
+53,street condition,Street/Sidewalk Condition
+54,dead/dying tree,Trees and Vegetation
+55,building/use,Illegal Use of Building
+56,case management agency complaint,N/A
+57,street sign - damaged,Streetlight/Traffic Signal Condition
+58,mosquitoes,Other
+59,electronics waste,Electronics Waste
+60,drug activity,Other
+61,benefit card replacement,Benefit Card Replacement
+62,lead,Lead
+63,dca / doh new license application request,Other
+64,broken muni meter,Broken Parking Meter
+65,root/sewer/sidewalk condition,Sewage/Drainage
+66,unsanitary animal facility,Unsanitary Condition
+67,curb condition,Street/Sidewalk Condition
+68,school maintenance,Other
+69,dof property - reduction issue,DOF Property
+70,recycling enforcement,Recycling
+71,special projects inspection team (spit),Other
+72,elevator,Elevator
+73,vacant lot,Other
+74,asbestos,Asbestos
+75,investigations and discipline (iad),Other
+76,highway condition,Highway
+77,plumbing,Plumbing
+78,housing options,Other
+79,housing - low income senior,Other
+80,noise - house of worship,Noise
+81,unleashed dog,Other
+82,food poisoning,Other
+83,snow,Snow Removal
+84,taxi report,Taxi Complaint
+85,day care,Other
+86,illegal animal kept as pet,Illegal Animal
+87,unsanitary pigeon condition,Unsanitary Condition
+88,street sign - dangling,Streetlight/Traffic Signal Condition
+89,street sign - missing,Streetlight/Traffic Signal Condition
+90,for hire vehicle report,For Hire Vehicle Report
+91,harboring bees/wasps,Other
+92,electrical,Electrical
+93,illegal tree damage,Trees and Vegetation
+94,mobile food vendor,Other
+95,door/window,Residential Preservation
+96,urinating in public,Other
+97,paint/plaster,Paint
+98,flooring/stairs,Residential Preservation
+99,electric,Electrical
+100,general,General
+101,unsanitary condition,Unsanitary Condition
+102,water leak,Plumbing
+103,appliance,Appliance
+104,heat/hot water,Heat/Hot Water
+105,dof property - request copy,DOF Property
+106,dof parking - request status,DOF Parking
+107,derelict vehicles,Derelict Vehicle
+108,dof parking - payment issue,DOF Parking
+109,dof property - update account,Other
+110,safety,Safety
+111,collection truck noise,Noise
+112,bike rack condition,Other
+113,noncompliance with phased reopening,Other
+114,abandoned vehicle,Abandoned Vehicle
+115,broken parking meter,Broken Parking Meter
+116,encampment,Other
+117,animal in a park,Animal in a Park
+118,scaffold safety,Other
+119,transportation provider complaint,Other
+120,oem literature request,Other
+121,bridge condition,Other
+122,panhandling,Other
+123,disorderly youth,Other
+124,dhs advantage - tenant,DHS Issue
+125,found property,Other
+126,animal-abuse,Animal Abuse
+127,pet shop,Other
+128,dpr internal,Other
+129,noise - helicopter,Noise
+130,illegal fireworks,Other
+131,boilers,Other
+132,dhs advantage -landlord/broker,DHS Issue
+133,industrial waste,Other
+134,outdoor dining,Other
+135,dof property - property value,DOF Property
+136,sweeping/missed,Sweeping
+137,scrie,SCRIE
+138,bus stop shelter complaint,Bus Stop Shelter
+139,posting advertisement,Other
+140,indoor sewage,Other
+141,bus stop shelter placement,Bus Stop Shelter
+142,cooling tower,Other
+143,dof parking - dmv clearance,DOF Parking
+144,outside building,Other
+145,construction,Construction
+146,bike/roller/skate chronic,Other
+147,missed collection,Missed Collection
+148,home delivered meal complaint,Home Delivered Meal Complaint
+149,ferry complaint,Other
+150,illegal animal sold,Illegal Animal
+151,dead animal,Other
+152,tattooing,Other
+153,mold,Mold
+154,dof property - payment issue,DOF Property
+155,forms,Other
+156,bereavement support group,Bereavement Support Group
+157,linknyc,Other
+158,lifeguard,Other
+159,poison ivy,Other
+160,dof parking - request copy,DOF Parking
+161,advocate-personal exemptions,Taxpayer Advocate
+162,non-residential heat,Other
+163,dof parking - tax exemption,DOF Parking
+164,drie,Other
+165,beach/pool/sauna complaint,Other
+166,adopt-a-basket,Adopt-A-Basket
+167,traffic/illegal parking,Illegal Parking
+168,ferry inquiry,Other
+169,question,Other
+170,home delivered meal - missed delivery,Home Delivered Meal Complaint
+171,best/site safety,Other
+172,vaccine mandate non-compliance,Other
+173,dof property - owner issue,DOF Property
+174,dirty condition,Dirty Conditions
+175,sweeping/missed-inadequate,Sweeping
+176,drinking water,Drinking Water
+177,animal facility - no permit,Animal Facility - No Permit
+178,municipal parking facility,Municipal Parking Facility
+179,cranes and derricks,Other
+180,request large bulky item collection,Large Bulky Item Collection
+181,illegal dumping,Other
+182,alzheimer's care,Alzheimer's Care
+183,taxpayer advocate inquiry,Other
+184,tanning,Other
+185,public toilet,Other
+186,advocate-co-opcondo abatement,Taxpayer Advocate
+187,plant,Other
+188,taxi compliment,Taxi Compliment
+189,sweeping/inadequate,Sweeping
+190,mass gathering complaint,Other
+191,advocate-prop refunds/credits,Taxpayer Advocate
+192,public payphone complaint,Other
+193,elder abuse,Other
+194,research questions,Other
+195,window guard,Other
+196,special natural area district (snad),Other
+197,obstruction,Other
+198,legal services provider complaint,Other
+199,highway sign - missing,Highway
+200,comments,Other
+201,green taxi complaint,Other
+202,advocate - other,Taxpayer Advocate
+203,peeling paint,Paint
+204,highway sign - damaged,Highway
+205,overflowing recycling baskets,Other
+206,calorie labeling,Calorie Labeling
+207,dof property - rpie issue,DOF Property
+208,dhs advantage - third party,DHS Issue
+209,fatf,ATF/FATF
+210,norc complaint,Other
+211,wood pile remaining,Other
+212,x-ray machine/equipment,Other
+213,dof property - city rebate,DOF Property
+214,home care provider complaint,Other
+215,stalled sites,Other
+216,illegal posting,Other
+217,miscellaneous categories,Other
+218,city vehicle placard complaint,Other
+219,advocate-commercial exemptions,Taxpayer Advocate
+220,summer camp,Other
+221,heap assistance,Other
+222,weatherization,Other
+223,uprooted stump,Other
+224,home repair,Other
+225,utility program,Other
+226,parking card,Parking card
+227,advocate-property value,Taxpayer Advocate
+228,noise survey,Noise
+229,ferry permit,Other
+230,building condition,Other
+231,dhs income savings requirement,DHS Issue
+232,squeegee,Other
+233,sanitation worker or vehicle complaint,Sanitation
+234,interior demo,Other
+235,litter basket complaint,Litter Basket
+236,advocate - lien,Taxpayer Advocate
+237,advocate-business tax,Taxpayer Advocate
+238,residential disposal complaint,Other
+239,radioactive material,Other
+240,tunnel condition,Other
+241,storm,Other
+242,bottled water,Bottled Water (Taste/Odor)
+243,highway sign - dangling,Highway
+244,vacant apartment,Other
+245,building marshals office,Other
+246,dof parking - address update,DOF Parking
+247,construction lead dust,Construction
+248,private or charter school reopening,Other
+249,fcst,Other
+250,advocate - levy,Taxpayer Advocate
+251,homeless street condition,Homeless Person Assistance
+252,atf,ATF/FATF
+253,select message type...,Other
+254,special enforcement,Other
+255,electronics waste appointment,Electronics Waste
+256,request xmas tree collection,Large Bulky Item Collection
+257,snw,Other
+258,institution disposal complaint,Other
+259,injured wildlife,Other
+260,general question,General Question
+261,illegal animal - sold/kept,Illegal Animal
+262,homebound evacuation 4,Other
+263,no child left behind,Other
+264,litter basket request,Litter Basket
+265,trans fat,Other
+266,street sweeping complaint,Other
+267,advocate - rpie,Taxpayer Advocate
+268,general construction,Construction
+269,dep highway condition,Other
+270,advocate-scrie/drie,Taxpayer Advocate
+271,ztestint,Other
+272,dep sidewalk condition,Other
+273,advocate-prop class incorrect,Taxpayer Advocate
+274,facades,Other
+275,dumpster complaint,Other
+276,nonconst,N/A
+277,health,Other
+278,registration and transfers,Other
+279,teaching/learning/instruction,Other
+280,paint - plaster,Paint
+281,discipline and suspension,Other
+282,water maintenance,Water Maintenance
+283,agency,N/A
+284,heating,Heat/Hot Water
+285,executive inspections,Other
+286,dor literature request,Other
+287,oem disabled vehicle,Other
+288,portable toilet,Other
+289,construction safety enforcement,Construction
+290,foam ban enforcement,Other
+291,fhv licensee complaint,Other
+292,meals home delivery required,Other
+293,parent leadership,Other
+294,srde,Other
+295,forensic engineering,Other
+296,borough office,Other
+297,sustainability enforcement,Other
+298,quality of life,Other
+299,special operations,Other
+300,unlicensed dog,Other
+301,dep street condition,Other
+302,unspecified,N/A
+362,misc. comments|nslookup -q=...,N/A
+363,employee behavior,Other
+364,dept of investigations,Other
+365,lot condition,Other
+366,structural,Other
+367,covid-19 non-essential construction,Construction
+368,eviction,Other
+369,dof property - state rebate,DOF Property
+370,advocate-foreclosure,Taxpayer Advocate
+380,dsny spillage,Other
+381,single occupancy bathroom,Other
+382,abandoned bike,Abandoned Vehicle
+383,incorrect data,Other
+384,snow removal,Snow Removal
+385,commercial disposal complaint,Other
+386,green taxi report,Other
+387,e-scooter,Other
+388,standpipe - mechanical,Other
+390,taxi licensee complaint,Taxi Complaint
+392,fire alarm - modification,Fire alarm
+393,fire alarm - new system,Fire alarm
+394,rangehood,Other
+395,public assembly,Public Assembly
+396,fire alarm - reinspection,Fire alarm
+397,public assembly - temporary,Public Assembly
+398,gas station discharge lines,Other
+399,hazmat storage/use,Other
+400,dispatched taxi complaint,Other
+401,dep bridge condition,Other
+402,transfer station complaint,Other
+403,retailer complaint,Other
+404,recycling basket complaint,Recycling
+405,change collection schedule,N/A
+406,snow or ice,Snow Removal
+407,sprinkler - mechanical,Other
+450,%2fetc%2fpasswd,N/A
+451,fire alarm - replacement,Fire alarm
+452,dispatched taxi compliment,Other
+453,open flame permit,Other
+454,trapping pigeon,Other
+455,hazardous material,Hazardous Material
+456,dof literature request,Other
+458,advocate-ubt,Taxpayer Advocate
+459,asbestos/garbage nuisance,Asbestos

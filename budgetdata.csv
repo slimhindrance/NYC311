@@ -1,0 +1,241 @@
+﻿agencyID,agencycode,agencyname,year,budget
+0,dot,Department of Transportation,11,857247000
+0,dot,Department of Transportation,12,832608000
+0,dot,Department of Transportation,13,827012000
+0,dot,Department of Transportation,14,852034000
+0,dot,Department of Transportation,15,869073000
+0,dot,Department of Transportation,16,900959000
+0,dot,Department of Transportation,17,1760023686
+0,dot,Department of Transportation,18,2838785805
+0,dot,Department of Transportation,19,2904130332
+0,dot,Department of Transportation,20,3128157876
+1,dep,Department of Environmental Protection,11,1016976000
+1,dep,Department of Environmental Protection,12,1046697000
+1,dep,Department of Environmental Protection,13,1711483000
+1,dep,Department of Environmental Protection,14,1183430000
+1,dep,Department of Environmental Protection,15,1142577000
+1,dep,Department of Environmental Protection,16,114514500
+1,dep,Department of Environmental Protection,17,2507121106
+1,dep,Department of Environmental Protection,18,4350301791
+1,dep,Department of Environmental Protection,19,4238314929
+1,dep,Department of Environmental Protection,20,4163574306
+2,nypd,New York Police Department,11,4559496000
+2,nypd,New York Police Department,12,4631506000
+2,nypd,New York Police Department,13,4658350000
+2,nypd,New York Police Department,14,4669342000
+2,nypd,New York Police Department,15,4896335000
+2,nypd,New York Police Department,16,5075081000
+2,nypd,New York Police Department,17,10138554544
+2,nypd,New York Police Department,18,15452555283
+2,nypd,New York Police Department,19,16714892580
+2,nypd,New York Police Department,20,16785848376
+3,dohmh,Department of Health and Mental Hygiene,11,1582048000
+3,dohmh,Department of Health and Mental Hygiene,12,1528519000
+3,dohmh,Department of Health and Mental Hygiene,13,1480287000
+3,dohmh,Department of Health and Mental Hygiene,14,1394753000
+3,dohmh,Department of Health and Mental Hygiene,15,1470119000
+3,dohmh,Department of Health and Mental Hygiene,16,1425182000
+3,dohmh,Department of Health and Mental Hygiene,17,2700496812
+3,dohmh,Department of Health and Mental Hygiene,18,4572849723
+3,dohmh,Department of Health and Mental Hygiene,19,4836365838
+3,dohmh,Department of Health and Mental Hygiene,20,5036211672
+4,dsny,Department of Sanitation,11,1398495000
+4,dsny,Department of Sanitation,12,1276777000
+4,dsny,Department of Sanitation,13,1365390000
+4,dsny,Department of Sanitation,14,1409865000
+4,dsny,Department of Sanitation,15,1472098000
+4,dsny,Department of Sanitation,16,1490869000
+4,dsny,Department of Sanitation,17,3134290894
+4,dsny,Department of Sanitation,18,5030700576
+4,dsny,Department of Sanitation,19,5038262247
+4,dsny,Department of Sanitation,20,5229296745
+5,dpr,Department of Parks & Rec,11,343674000
+5,dpr,Department of Parks & Rec,12,320859000
+5,dpr,Department of Parks & Rec,13,371822000
+5,dpr,Department of Parks & Rec,14,363104000
+5,dpr,Department of Parks & Rec,15,439531000
+5,dpr,Department of Parks & Rec,16,422485000
+5,dpr,Department of Parks & Rec,17,909361070
+5,dpr,Department of Parks & Rec,18,1519126371
+5,dpr,Department of Parks & Rec,19,1595532363
+5,dpr,Department of Parks & Rec,20,1602211329
+6,dhs,Department of Homeless Services,11,795423000
+6,dhs,Department of Homeless Services,12,821050000
+6,dhs,Department of Homeless Services,13,842409000
+6,dhs,Department of Homeless Services,14,977189000
+6,dhs,Department of Homeless Services,15,1028992000
+6,dhs,Department of Homeless Services,16,1156544000
+6,dhs,Department of Homeless Services,17,2161841734
+6,dhs,Department of Homeless Services,18,3893772159
+6,dhs,Department of Homeless Services,19,4851681675
+6,dhs,Department of Homeless Services,20,6185329410
+7,hpd,Department of Housing Preservation & Development,11,702322000
+7,hpd,Department of Housing Preservation & Development,12,729148000
+7,hpd,Department of Housing Preservation & Development,13,666396000
+7,hpd,Department of Housing Preservation & Development,14,684836000
+7,hpd,Department of Housing Preservation & Development,15,714764000
+7,hpd,Department of Housing Preservation & Development,16,842163000
+7,hpd,Department of Housing Preservation & Development,17,1505985522
+7,hpd,Department of Housing Preservation & Development,18,3815844558
+7,hpd,Department of Housing Preservation & Development,19,3435267015
+7,hpd,Department of Housing Preservation & Development,20,3427440957
+8,dob,Department of Buildings,11,98556000
+8,dob,Department of Buildings,12,94578000
+8,dob,Department of Buildings,13,102224000
+8,dob,Department of Buildings,14,98185000
+8,dob,Department of Buildings,15,107765000
+8,dob,Department of Buildings,16,134556000
+8,dob,Department of Buildings,17,308838464
+8,dob,Department of Buildings,18,516217056
+8,dob,Department of Buildings,19,554151096
+8,dob,Department of Buildings,20,614251572
+9,dca,Department of Consumer Affairs,11,19906000
+9,dca,Department of Consumer Affairs,12,24088000
+9,dca,Department of Consumer Affairs,13,25362000
+9,dca,Department of Consumer Affairs,14,29820000
+9,dca,Department of Consumer Affairs,15,34191000
+9,dca,Department of Consumer Affairs,16,34100000
+9,dca,Department of Consumer Affairs,17,82601986
+9,dca,Department of Consumer Affairs,18,121794246
+9,dca,Department of Consumer Affairs,19,124882695
+9,dca,Department of Consumer Affairs,20,128481495
+10,tlc,Taxi & Limo Commission,11,30097000
+10,tlc,Taxi & Limo Commission,12,30174000
+10,tlc,Taxi & Limo Commission,13,46331000
+10,tlc,Taxi & Limo Commission,14,36743000
+10,tlc,Taxi & Limo Commission,15,47925000
+10,tlc,Taxi & Limo Commission,16,52401000
+10,tlc,Taxi & Limo Commission,17,137732958
+10,tlc,Taxi & Limo Commission,18,211836243
+10,tlc,Taxi & Limo Commission,19,172438323
+10,tlc,Taxi & Limo Commission,20,157543455
+11,dfta,Department for The Aging ,11,259966000
+11,dfta,Department for The Aging ,12,245950000
+11,dfta,Department for The Aging ,13,258207000
+11,dfta,Department for The Aging ,14,258510000
+11,dfta,Department for The Aging ,15,275744000
+11,dfta,Department for The Aging ,16,294203000
+11,dfta,Department for The Aging ,17,620052256
+11,dfta,Department for The Aging ,18,992666514
+11,dfta,Department for The Aging ,19,1097214870
+11,dfta,Department for The Aging ,20,1156997253
+13,doe,Department of Education,11,18862235000
+13,doe,Department of Education,12,19129084000
+13,doe,Department of Education,13,19128734000
+13,doe,Department of Education,14,18672173000
+13,doe,Department of Education,15,20457511000
+13,doe,Department of Education,16,21973688000
+13,doe,Department of Education,17,43819417512
+13,doe,Department of Education,18,69568616106
+13,doe,Department of Education,19,72986567724
+13,doe,Department of Education,20,76779509364
+14,dof,Department of Finance,11,212432000
+14,dof,Department of Finance,12,214069000
+14,dof,Department of Finance,13,216498000
+14,dof,Department of Finance,14,233046000
+14,dof,Department of Finance,15,235023000
+14,dof,Department of Finance,16,250766000
+14,dof,Department of Finance,17,532021328
+14,dof,Department of Finance,18,830303538
+14,dof,Department of Finance,19,907583010
+14,dof,Department of Finance,20,910530228
+15,OSE,Mayor's Office of Special Enforcement,11,93315000
+15,OSE,Mayor's Office of Special Enforcement,12,91902000
+15,OSE,Mayor's Office of Special Enforcement,13,91999000
+15,OSE,Mayor's Office of Special Enforcement,14,94713000
+15,OSE,Mayor's Office of Special Enforcement,15,100260000
+15,OSE,Mayor's Office of Special Enforcement,16,108116000
+15,OSE,Mayor's Office of Special Enforcement,17,244282968
+15,OSE,Mayor's Office of Special Enforcement,18,414283905
+15,OSE,Mayor's Office of Special Enforcement,19,411479427
+15,OSE,Mayor's Office of Special Enforcement,20,420375036
+16,nycem,New York City Emergency Management,11,33592000
+16,nycem,New York City Emergency Management,12,23298000
+16,nycem,New York City Emergency Management,13,41305000
+16,nycem,New York City Emergency Management,14,33889000
+16,nycem,New York City Emergency Management,15,34343000
+16,nycem,New York City Emergency Management,16,35008000
+16,nycem,New York City Emergency Management,17,32054276
+16,nycem,New York City Emergency Management,18,178961274
+16,nycem,New York City Emergency Management,19,177344058
+16,nycem,New York City Emergency Management,20,169665918
+18,acs,Administration of Children's Services,11,2656215000
+18,acs,Administration of Children's Services,12,2797252000
+18,acs,Administration of Children's Services,13,2719072000
+18,acs,Administration of Children's Services,14,2710193000
+18,acs,Administration of Children's Services,15,2665483000
+18,acs,Administration of Children's Services,16,2770940000
+18,acs,Administration of Children's Services,17,5897844184
+18,acs,Administration of Children's Services,18,8933795115
+18,acs,Administration of Children's Services,19,9388033917
+18,acs,Administration of Children's Services,20,8915113605
+19,doitt,Department of Information Technology & Telecommunications,11,288892000
+19,doitt,Department of Information Technology & Telecommunications,12,293583000
+19,doitt,Department of Information Technology & Telecommunications,13,293739000
+19,doitt,Department of Information Technology & Telecommunications,14,324576000
+19,doitt,Department of Information Technology & Telecommunications,15,324317000
+19,doitt,Department of Information Technology & Telecommunications,16,390181000
+19,doitt,Department of Information Technology & Telecommunications,17,1106139788
+19,doitt,Department of Information Technology & Telecommunications,18,1880016870
+19,doitt,Department of Information Technology & Telecommunications,19,1884755190
+19,doitt,Department of Information Technology & Telecommunications,20,2000051481
+20,tax,TAX,11,3707000
+20,tax,TAX,12,3712000
+20,tax,TAX,13,4162000
+20,tax,TAX,14,4247000
+20,tax,TAX,15,4259000
+20,tax,TAX,16,4261000
+20,tax,TAX,17,9215548
+20,tax,TAX,18,15066264
+20,tax,TAX,19,14837211
+20,tax,TAX,20,15976308
+21,dcp,Department of City Planning,11,23589000
+21,dcp,Department of City Planning,12,22831000
+21,dcp,Department of City Planning,13,20928000
+21,dcp,Department of City Planning,14,20395000
+21,dcp,Department of City Planning,15,24621000
+21,dcp,Department of City Planning,16,31170000
+21,dcp,Department of City Planning,17,76223474
+21,dcp,Department of City Planning,18,138814140
+21,dcp,Department of City Planning,19,148521438
+21,dcp,Department of City Planning,20,156077178
+22,dcas,Department of Citywide Administration Services,11,360280000
+22,dcas,Department of Citywide Administration Services,12,365424000
+22,dcas,Department of Citywide Administration Services,13,440057000
+22,dcas,Department of Citywide Administration Services,14,386357000
+22,dcas,Department of Citywide Administration Services,15,391440000
+22,dcas,Department of Citywide Administration Services,16,415874000
+22,dcas,Department of Citywide Administration Services,17,2366445970
+22,dcas,Department of Citywide Administration Services,18,3541988982
+22,dcas,Department of Citywide Administration Services,19,3567533727
+22,dcas,Department of Citywide Administration Services,20,3595099158
+25,coib,Conflicts of Interest Board,11,1981000
+25,coib,Conflicts of Interest Board,12,1960000
+25,coib,Conflicts of Interest Board,13,2032000
+25,coib,Conflicts of Interest Board,14,2054000
+25,coib,Conflicts of Interest Board,15,2193000
+25,coib,Conflicts of Interest Board,16,2380000
+25,coib,Conflicts of Interest Board,17,4474228
+25,coib,Conflicts of Interest Board,18,7683360
+25,coib,Conflicts of Interest Board,19,7741230
+25,coib,Conflicts of Interest Board,20,7740531
+28,fdny,Fire Department of New York City,11,1719963000
+28,fdny,Fire Department of New York City,12,1753294000
+28,fdny,Fire Department of New York City,13,1828985000
+28,fdny,Fire Department of New York City,14,1875259000
+28,fdny,Fire Department of New York City,15,1887335000
+28,fdny,Fire Department of New York City,16,1972409000
+28,fdny,Fire Department of New York City,17,3662523540
+28,fdny,Fire Department of New York City,18,5844529755
+28,fdny,Fire Department of New York City,19,6122129586
+28,fdny,Fire Department of New York City,20,6091013064
+31,dvs,Department of Veteran Services,11,0
+31,dvs,Department of Veteran Services,12,0
+31,dvs,Department of Veteran Services,13,0
+31,dvs,Department of Veteran Services,14,0
+31,dvs,Department of Veteran Services,15,0
+31,dvs,Department of Veteran Services,16,0
+31,dvs,Department of Veteran Services,17,0
+31,dvs,Department of Veteran Services,18,11529666
+31,dvs,Department of Veteran Services,19,13256307
+31,dvs,Department of Veteran Services,20,15341982
